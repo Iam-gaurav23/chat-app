@@ -11,7 +11,6 @@ This application allows users to communicate instantly with features like authen
 - Secure authentication using JWT
 - Online/offline user status
 - Responsive UI using Tailwind CSS
-- (Add your custom feature here 👈)
 
 ---
 
